@@ -1,0 +1,7 @@
+/* Favicon specifications */
+Font: Arial or Helvetica
+Text: AZ
+Background: #007bff (to match your theme)
+Text Color: White
+Size: 32x32 pixels (standard favicon size)
+Format: .ico 

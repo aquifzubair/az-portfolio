@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Aquif Zubair",
+  "jobTitle": "Senior Software Engineer",
+  "description": "Senior Software Engineer specializing in React, Node.js, and Full Stack Development",
+  "url": "https://your-website-url.com",
+  "sameAs": [
+    "https://www.linkedin.com/in/aquif-zubair-167b23155/",
+    "https://github.com/aquifzubair"
+  ],
+  "knowsAbout": [
+    "React.js",
+    "Node.js",
+    "JavaScript",
+    "Full Stack Development",
+    "Web Development"
+  ]
+} 
